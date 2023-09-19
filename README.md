@@ -1,4 +1,4 @@
-# AlexeiMamani Blog 📄
+# My Personal Garden | www.alexeimamani.dev | www.mozart2234.com
 
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![GitHub](https://img.shields.io/github/license/mozart2234/personal-garden?color=%232F3741&style=for-the-badge)
